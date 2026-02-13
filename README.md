@@ -4,6 +4,10 @@ A creative single-page portfolio concept built around a dynamic CSS Grid system.
 
 This project explores layout reconfiguration, visual identity design, and smooth UI transitions using JavaScript and GSAP Flip. The goal was to create a futuristic, tech-inspired “bento-style” portfolio that dynamically reorganizes itself based on user interaction.
 
+[screenshot-1](screenshots/screenshot-1.jpg)
+[screenshot-2](screenshots/screenshot-2.jpg)
+[screenshot-3](screenshots/screenshot-3.jpg)
+
 ---
 
 ## Project Overview
