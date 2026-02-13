@@ -670,7 +670,7 @@ p {
 }
 
 .project-5 {
-    background-image: url(/img/retro-grid.png);
+    background-image: url(../img/retro-grid.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -712,7 +712,7 @@ p {
 }
 
 .writing-2 {
-    background-image: url(/img/cyber-brain.png);
+    background-image: url(../img/cyber-brain.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -809,7 +809,7 @@ p {
 
 .writing-5 {
     background-color: #06d18742;
-    background-image: url(img/cyber-3d-cubes.png);
+    background-image: url(../img/cyber-3d-cubes.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -827,7 +827,7 @@ p {
 }
 
 .contact-1 {
-    background-image: url(/img/asian-black-panel-squared.png);
+    background-image: url(../img/asian-black-panel-squared.png);
     color: var(--white);
     justify-content: space-between;
 }
@@ -841,7 +841,7 @@ p {
 }
 
 .contact-2 {
-    background-image: url(/img/asian-black-panel-charge.png);
+    background-image: url(../img/asian-black-panel-charge.png);
 }
 
 .github-box,
@@ -850,7 +850,7 @@ p {
 }
 
 .contact-3 {
-    background-image: url(/img/asian-blue-panel-squared.png);
+    background-image: url(../img/asian-blue-panel-squared.png);
 }
 
 .contact-3 a {
@@ -873,11 +873,11 @@ p {
 }
 
 .contact-4 {
-    background-image: url(/img/asian-blue-panel-charge.png);
+    background-image: url(../img/asian-blue-panel-charge.png);
 }
 
 .contact-5 {
-    background-image: url(/img/asian-black-panel-vertical.png);
+    background-image: url(../img/asian-black-panel-vertical.png);
 }
 
 .galaxy-map {
@@ -895,7 +895,7 @@ p {
 }
 
 .map-box-2 {
-    background-image: url(/img/coordinates-graphic-box.png);
+    background-image: url(../img/coordinates-graphic-box.png);
     background-repeat: no-repeat;
     min-height: 278px;
     position: relative;
